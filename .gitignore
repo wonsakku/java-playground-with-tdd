@@ -1,3 +1,6 @@
 
 .idea
+*.iml
+
 java-baseball-playground/target
+java-racing-game/target

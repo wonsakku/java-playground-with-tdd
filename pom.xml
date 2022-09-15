@@ -16,6 +16,7 @@
 
     <modules>
         <module>java-baseball-playground</module>
+        <module>java-racing-game</module>
     </modules>
 
 
